@@ -84,14 +84,20 @@
 
 // * forEach -
 
+// foreach is a function
+// ! jb func ke andr func bnate h to bahar wale ko hum higher order function bolte h.
+// generally used in js
+
 // let num = [1,2,3,4,5,6,7,8,9,10]
 
 // num.forEach((value , index , array)=>{
 //    console.log(`2 x ${index + 1} = ${value * 2}`)
-// })
+// }) //! jb func ke andr func bnate h to use callback function bhi bolte h.
 
 // *map method
 // - new array return
+// - generally used in react
+// - uses in to make similar components
 
 //  let newArray = num.map((value , index , array)=>{
 //     return value * 2

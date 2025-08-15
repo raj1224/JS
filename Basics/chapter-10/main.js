@@ -24,6 +24,7 @@
 // //     }
 // // }
 
+// add more properties to object
 // // myPerson.diet = ["Meggie" , "Fast-food" , "momos" , "noodles" , "pizza"]
 
 // // console.log(myPerson.greet())

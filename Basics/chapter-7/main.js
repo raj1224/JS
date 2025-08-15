@@ -18,7 +18,8 @@ let Nums= ["one" ,"two"  , "three" ,"four" , [1 , 2] , ["Kya haal chaal"] ];
 console.log(Nums[4][1])
 
 
-console.log(typeof Nums)
+console.log(typeof Nums) 
+// ! type of array is object
 
 // Nums[1] = "Two"
 // console.log(Nums)
